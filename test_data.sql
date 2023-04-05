@@ -1,0 +1,1 @@
+INSERT INTO SpotifyUsers(spotifyID, access_token, refresh_token) VALUES ("test_12345", "", "");
